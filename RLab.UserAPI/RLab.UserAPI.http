@@ -1,0 +1,6 @@
+@RLab.UserAPI_HostAddress = http://localhost:5203
+
+GET {{RLab.UserAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
